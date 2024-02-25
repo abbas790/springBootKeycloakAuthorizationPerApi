@@ -1,0 +1,8 @@
+{
+  "realm": "mobileSystem",
+  "auth-server-url": "http://localhost:9080",
+  "resource": "web_app",
+  "credentials": {
+    "secret": "Rubg5kQXzL8btWqibbHu2ySeaKpR76ft"
+  }
+}
